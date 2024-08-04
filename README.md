@@ -3,9 +3,6 @@ Hello! My name is Ajay
 
 I'm currently a Master's Computer Science student at NC State University. I have a B.S. in Computer Engineering from UNC Charlotte.
 
-*   🌍  I'm based in the United States
-*   ✉️  You can contact me at [avchundi@ncsu.edu](mailto:avchundi@ncsu.edu)
-
 ### Skills 
 
 <p align="left">
