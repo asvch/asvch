@@ -1,4 +1,4 @@
-Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Ajay
+Hello! My name is Ajay
 ============================================================================================================================
 
 I'm currently a Master's Computer Science student at NC State University. I have a B.S. in Computer Engineering from UNC Charlotte.
