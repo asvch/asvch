@@ -1,7 +1,8 @@
 Hello! My name is Ajay.
 ============================================================================================================================
 
-I'm currently a Master's Computer Science student at NC State University. I have a B.S. in Computer Engineering from UNC Charlotte.
+* I'm currently a Master's Computer Science student at NC State University. 
+* I have a B.S. in Computer Engineering from UNC Charlotte.
 
 ### Skills 
 
