@@ -27,10 +27,4 @@ Hello! My name is Ajay.
 </picture>
 </a></p>
 
-### Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/asvch/ask_docs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=asvch&repo=ask_docs&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/asvch/ProduceHealthApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=asvch&repo=ProduceHealthApp&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br />
-
-<div width="100%" align="center"><a href="https://github.com/asvch/llm-agent-fullstack" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=asvch&repo=llm-agent-fullstack&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/asvch/mamm-severity" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=asvch&repo=mamm-severity&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div>
